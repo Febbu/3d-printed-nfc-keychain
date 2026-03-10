@@ -38,11 +38,11 @@ Most modern smartphones can read NFC tags without installing any additional app.
 
 Cross section from top
 
-![Resume cross section from top](cross-section/resume-nfc/cross-from-top.png)
+<img src="cross-section/resume-nfc/cross-from-top.png" width="120">
 
 Cross section from side
 
-![Resume cross section from side](cross-section/resume-nfc/cross-from-side.png)
+<img src="cross-section/resume-nfc/cross-from-side.png" width="120">
 
 ---
 
