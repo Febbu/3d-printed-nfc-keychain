@@ -134,11 +134,11 @@ The tags were programmed using the **NFC Tools** mobile app.
 # Files
 
 The `models` folder contains printable files:
-models/
-LinkedInNFC.stl
-LinkedInNFC.3mf
-ResumeNFC.stl
-ResumeNFC.3mf
+
+- [ResumeNFC.stl](models/ResumeNFC.stl)
+- [ResumeNFC.3mf](models/ResumeNFC.3mf)
+- [LinkedInNFC.stl](models/LinkedInNFC.stl)
+- [LinkedInNFC.3mf](models/LinkedInNFC.3mf)
 
 - **STL** → universal compatibility  
 - **3MF** → modern format with more metadata
