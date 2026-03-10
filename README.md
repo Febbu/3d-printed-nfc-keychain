@@ -2,7 +2,7 @@
 
 An open-source project that combines **3D printing and NFC technology** to create keychains that instantly open a **resume or LinkedIn profile** when tapped with a smartphone.
 
-The idea came from wanting a **simple and memorable way to share my resume and LinkedIn profile at networking events**. Instead of asking someone to type a URL or search for a profile, they can simply **tap the keychain with their phone** and immediately access the information.
+The idea came from wanting a **simple way to share my resume and LinkedIn profile at networking events**. Instead of asking someone to type a URL or search for a profile, they can simply **tap the keychain with their phone** and immediately access the information.
 
 This project demonstrates:
 
@@ -38,13 +38,13 @@ The repository contains two example designs.
 
 ### Resume NFC Tag
 
-Top view
+Cross section from top
 
-![Resume top](cross-section/resume-nfc/view-from-top.png)
+![Resume cross section from top](cross-section/resume-nfc/cross-from-top.png)
 
-Cross section
+Cross section from side
 
-![Resume cross section](cross-section/resume-nfc/cross-from-side.png)
+![Resume cross section from side](cross-section/resume-nfc/cross-from-side.png)
 
 ---
 
@@ -52,17 +52,17 @@ Cross section
 
 Top view
 
-![LinkedIn top](cross-section/linkedin-nfc/view-from-top.png)
+![LinkedIn tcross section from top](cross-section/linkedin-nfc/cross-from-top.png)
 
 Cross section
 
-![LinkedIn cross section](cross-section/linkedin-nfc/cross-from-side.png)
+![LinkedIn cross section from side](cross-section/linkedin-nfc/cross-from-side.png)
 
 ---
 
 # 3D Printing Instructions
 
-The design includes a **cavity inside the print for the NFC tag**.
+The design includes a **slot inside the print for the NFC tag**.
 
 ### Recommended workflow
 
@@ -96,7 +96,6 @@ https://www.amazon.com/dp/B087M9FLM4
 These are small round NFC stickers that work well for embedded prints because they are:
 
 - thin
-- adhesive
 - easy to program
 - compatible with most smartphones
 
@@ -108,7 +107,7 @@ The tags were programmed using the **NFC Tools** mobile app.
 
 ### Example workflow
 
-1. Open **NFC Tools**
+1. Open **NFC Tools** (You can use any NFC writing app)
 2. Tap **Write**
 3. Tap **Add Record**
 4. Select **URL / URI**
@@ -118,15 +117,17 @@ The tags were programmed using the **NFC Tools** mobile app.
 
 ### App Screenshots
 
-![Start](app-screenshots/start-page.jpg)
+![App logo](app-screenshots/app-logo)
 
-![Write](app-screenshots/click-write.jpg)
+![Start](app-screenshots/start-page.jpg)
 
 ![Add record](app-screenshots/add-record.jpg)
 
+![Choose URL](app-screenshots/click-url.jpg)
+
 ![Add link](app-screenshots/add-link.jpg)
 
-![Choose URL](app-screenshots/click-url.jpg)
+![Write](app-screenshots/click-write.jpg)
 
 ---
 
