@@ -117,7 +117,7 @@ The tags were programmed using the **NFC Tools** mobile app.
 
 ### App Screenshots
 
-![App logo](app-screenshots/app-logo)
+![App logo](app-screenshots/app-logo.jpg)
 
 ![Start](app-screenshots/start-page.jpg)
 
