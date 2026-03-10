@@ -100,26 +100,20 @@ These work well because they are:
 
 ## Programming the NFC Tag
 
-The tags were written using the **NFC Tools** mobile app.
+The NFC tags were programmed using the **NFC Tools** mobile app.
 
-Typical workflow:
+<img src="app-screenshots/app-logo.jpg" width="120">
 
-1. Open NFC Tools
-2. Tap **Write**
-3. Tap **Add Record**
-4. Select **URL / URI**
-5. Paste your link (resume, LinkedIn, etc.)
-6. Tap **Write**
-7. Hold the phone near the NFC tag
+Any NFC writing app can be used, but NFC Tools provides a simple workflow.
 
-### App Screenshots
+### Example workflow
 
-![App logo](app-screenshots/app-logo.jpg)
-![Start](app-screenshots/start-page.jpg)
-![Add record](app-screenshots/add-record.jpg)
-![Choose URL](app-screenshots/click-url.jpg)
-![Add link](app-screenshots/add-link.jpg)
-![Write](app-screenshots/click-write.jpg)
+1. Open an NFC writing app (e.g., NFC Tools).
+2. Select **Write**.
+3. Add a **URL / URI record**.
+4. Paste the link you want the tag to open (resume, LinkedIn, portfolio, etc.).
+5. Write the record to the NFC tag.
+6. Test the tag by tapping it with a smartphone.
 
 ---
 
